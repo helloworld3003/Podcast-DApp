@@ -1,6 +1,7 @@
 # Podcast-DApp
 # 🎙️ Stellar Cast: Decentralized Podcast Platform
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d805e5bb-1d85-405f-8a7f-f1d9bdc9a6f8" />
+<img width="1914" height="875" alt="image" src="https://github.com/user-attachments/assets/8d2959a3-6464-4816-a7f3-468c2c9b218f" />
+
 
 ## Project Description
 Stellar Cast is a decentralized podcasting dApp built on the Stellar network using Soroban smart contracts. It aims to give content creators full ownership over their audio content by decoupling the hosting and distribution from centralized platforms. By leveraging Stellar's fast and low-cost network alongside decentralized storage (like IPFS), Stellar Cast ensures podcasts are censorship-resistant, verifiable, and permanently accessible.
