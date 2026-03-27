@@ -1,7 +1,5 @@
 # Podcast-DApp
 # 🎙️ Stellar Cast: Decentralized Podcast Platform
-* #### Contract - CC2BSVQUVW7FITTIEI2ZNUDMGVOSFYGG75RVJLDCLAVZMO2TFOW3CI3K
-<img width="1914" height="875" alt="image" src="https://github.com/user-attachments/assets/8d2959a3-6464-4816-a7f3-468c2c9b218f" />
 
 
 ## Project Description
@@ -15,6 +13,9 @@ This Soroban smart contract acts as the on-chain registry for podcast episodes. 
 * **Immutable Registry:** Stores podcast metadata (Title, Creator Address, and Audio URI) permanently on the Stellar ledger using Soroban's persistent storage.
 * **On-Chain Indexing:** Automatically generates sequential IDs for easy querying and tracks the global total of published episodes.
 * **Decentralized Storage Friendly:** Designed to seamlessly integrate with IPFS or Arweave CIDs for off-chain heavy audio files, keeping on-chain gas fees minimal.
+
+* #### Contract - CC2BSVQUVW7FITTIEI2ZNUDMGVOSFYGG75RVJLDCLAVZMO2TFOW3CI3K
+<img width="1914" height="875" alt="image" src="https://github.com/user-attachments/assets/8d2959a3-6464-4816-a7f3-468c2c9b218f" />
 
 ## Getting Started
 
